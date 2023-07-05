@@ -34,6 +34,31 @@ SpringBoot基础配置(properties,yml,yaml)
 yaml语法规则  
 如何读取数据  
 将数据封装进对象后给spring管理  
-整合第三方技术  
-整合junit  
-整合Mybatis
+学习整合第三方技术  
+学习整合junit  
+学习整合Mybatis
+
+## day4
+把笔记上传至gitea仓库  
+
+SpringBoot基础学习：  
+练习使用SpringBoot整合Mybatis完成postgre数据库的访问  
+学习整合Mybatis-Plus
+学习整合druid  
+写一个简单的SSMP整合案例：  
+初始化项目并配置依赖  
+实体类开发  
+数据层开发(使用Mybatis-Plus和druid)并测试基础的增改删查操作  
+开启MP调试日志  配置分页拦截器  
+测试分页功能  
+完成按条件查询功能  
+业务层开发(标准开发)  
+业务层开发(快速开发)  
+表现层开发  使用postman测试  
+表现层数据一致性处理
+
+
+
+
+
+
