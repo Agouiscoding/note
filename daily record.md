@@ -92,6 +92,14 @@ JavaScript的基本对象
 通过JavaScript操作DOM元素   
 JavaScript的事件绑定    
 
+Vue基础学习：   
+Vue的基本概念   
+Vue快速入门     
+Vue的基本指令的使用     
+vue的生命周期   
+
+
+
 
 
 
