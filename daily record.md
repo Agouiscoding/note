@@ -57,6 +57,52 @@ SpringBoot基础学习：
 表现层开发  使用postman测试  
 表现层数据一致性处理
 
+## day5
+SSMP案例上传至gitea仓库  
+
+Springboot基础学习：  
+写一个简单的SSMP整合案例：  
+前后端调用(要学习前端知识)使用axios发送异步请求  
+对所有异常进行统一处理，统一数据格式    
+
+JavaWeb基础学习：  
+Web开发概述  
+了解Web开发的基本流程  
+了解Web开发三大组件的基本概念(HTML,CSS,JavaScript))  
+HTML&CSS学习：   
+基础标签&样式  
+如何引入CSS  
+CSS选择器  
+
+## day6  
+JavaWeb基础学习：  
+HTML&CSS学习：   
+超链接  
+如何用盒子模型布局  
+如何设计表单和表格  
+
+JavaScript基础学习：  
+JavaScript的基本概念    
+JavaScript的基本语法    
+JavaScript的基本数据类型    
+JavaScript的基本运算符  
+JavaScript的基本流程控制语句    
+JavaScript的基本函数    
+JavaScript的基本对象    
+通过JavaScript操作DOM元素   
+
+
+
+
+
+
+
+
+
+
+ 
+
+
 
 
 
