@@ -90,7 +90,7 @@ JavaScript的基本流程控制语句
 JavaScript的基本函数    
 JavaScript的基本对象    
 通过JavaScript操作DOM元素   
-
+JavaScript的事件绑定    
 
 
 
