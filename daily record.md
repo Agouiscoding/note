@@ -96,7 +96,31 @@ Vue基础学习：
 Vue的基本概念   
 Vue快速入门     
 Vue的基本指令的使用     
-vue的生命周期   
+   
+
+## day7
+JavaWeb基础学习：  
+Ajax基础学习：  
+Ajax的基本概念  
+Ajax的基本使用  
+Axios(对Ajax的封装)的基本使用  
+前后端分离开发的基本概念  
+YApi的基本使用  
+前端工程化  
+配置node.js环境  安装vue-cli  
+使用vue-cli创建Vue项目  
+Vue项目的基本结构  
+Vue项目开发流程  
+Element组件库    
+Element组件库的基本使用     
+Element案例学习     
+Vue路由的学习   
+Vue项目的打包和部署  
+
+
+
+
+
 
 
 
