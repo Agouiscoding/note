@@ -115,7 +115,27 @@ Element组件库
 Element组件库的基本使用     
 Element案例学习     
 Vue路由的学习   
-Vue项目的打包和部署  
+Vue项目的打包和部署   
+
+## day8  
+JavaWeb基础学习：  
+HTTP协议  
+HTTP协议的基本概念  
+HTTP请求协议  
+HTTP响应协议  
+Tomcat服务器学习  
+BS架构和CS架构   
+
+请求相应：  
+如何接受各种请求参数   
+如何响应各种数据格式  
+Web开发的三层架构  
+分层解耦的概念及实现  
+IOC详解  
+DI详解  
+Spring事务管理  
+
+
 
 
 
